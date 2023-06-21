@@ -1,4 +1,4 @@
-# calculadora-do-clima
+# calculadora do clima
 ## sobre
 o projeto foi desenvolvimento para a primeira fase de um trabalho do curso de análise e desenvolvimento de sistemas da PUCRS
 
